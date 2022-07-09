@@ -12,11 +12,14 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://mobile.twitter.com/ciltugberk#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://mobile.twitter.com/ciltugberk#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://tr.linkedin.com/in/mehmet-tuğberk-çil-06b299200#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://tr.linkedin.com/in/mehmet-tuğberk-çil-06b299200#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/ciltugberk#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ciltugberk#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/mehmet-tuğberk-çil-06b299200#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mehmet-tuğberk-çil-06b299200#gh-dark-mode-only)
+&nbsp;&nbsp;
+
 
 
 ### Languages and Tools:

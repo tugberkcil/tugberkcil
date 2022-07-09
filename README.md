@@ -17,7 +17,7 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://tr.linkedin.com/in/mehmet-tuğberk-çil-06b299200#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://tr.linkedin.com/in/mehmet-tuğberk-çil-06b299200#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 
 ### Languages and Tools:
 

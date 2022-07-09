@@ -12,13 +12,8 @@
 
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/ciltugberk#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ciltugberk#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/mehmet-tuğberk-çil-06b299200#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mehmet-tuğberk-çil-06b299200#gh-dark-mode-only)
-&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Tugberk on LinkedIn" title="Follow Tugberk on LinkedIn"/>](https://linkedin.com/in/mehmet-tuğberk-çil-06b299200)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Tugberk on Twitter" title="Follow Tugberk on Twitter"/>](https://twitter.com/CilTugberk)
 
 
 
@@ -32,9 +27,7 @@
 
 <br />
 <br />
-
 ---
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 

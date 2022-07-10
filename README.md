@@ -3,7 +3,7 @@
 
 ## I'm a student at Ozyegin University & Ecole42
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I am currently trying to improve myself more. 
 - 🥊 boxing
 - ⛓ gym
 - 🏊🏼‍♂️ swimming

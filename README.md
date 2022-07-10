@@ -28,7 +28,6 @@ My current goal is to improve myself more in every field, especially in areas su
 [<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/16542113/50175134-4f7b3700-02fc-11e9-914e-cb317fddce4e.png" style="padding-right:10px;" />]
 
 <br />
-<br />
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>

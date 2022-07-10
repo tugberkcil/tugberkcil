@@ -1,6 +1,6 @@
 # Hi there, I'm Tugberk 👋 
 
-I'm currently a student (Computer engineering) at [Ozyegin university](https://www.ozyegin.edu.tr/en) and (software engineering student) at [École 42](https://www.42istanbul.com.tr/en/)
+I'm currently a student (Computer engineering) at [Ozyegin university](https://www.ozyegin.edu.tr/en) and (software engineering) at [École 42](https://www.42istanbul.com.tr/en/)
 
 My current goal is to improve myself more in every field, especially in areas such as software, programming and machine learning.
 

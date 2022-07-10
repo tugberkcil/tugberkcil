@@ -1,7 +1,6 @@
 # Hi there, I'm Tugberk 👋 
 
-
-## I'm a student at Ozyegin University & Ecole42
+I'm currently a student (Computer engineering) at Ozyegin university and (software engineering student) at [École 42](https://www.42istanbul.com.tr/en/)
 
 - 🌱 I am currently trying to improve myself more. 
 - 🥊 boxing
